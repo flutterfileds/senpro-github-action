@@ -32,6 +32,9 @@ export default function Home() {
           <h5 className={inter.className}>
             Jovita Ayu Ramaniyya | 503808
           </h5>
+          <h5 className={inter.className}>
+            Jovita Ayu Ramaniyya | 503808
+          </h5>
         </div>
       </main>
     </>
